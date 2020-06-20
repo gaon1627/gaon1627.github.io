@@ -5,5 +5,7 @@
      </head>
      <body>
           <h3>Hello gaon</h3>
+     
+          <script src="js/bg.js"></script>
      </body>
 </html>
