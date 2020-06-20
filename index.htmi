@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-     <head>
-          <title>Hello gaon1627</title>
-     </head>
-     <body>
-          <h3>Hello gaon</h3>
+    <head>
+         <title>Hello gaon1627</title>
+    </head>            
+    <body>
+         <h3>Hello pgo</h3>
      
-          <script src="js/bg.js"></script>
-     </body>
+         <script src="js/bg.js"></script>
+    </body>
 </html>
